@@ -1,0 +1,5 @@
+/target/
+
+#intelliJ IDEA 
+.idea/
+analysisPlatform.iml
